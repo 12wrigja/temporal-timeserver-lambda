@@ -1,0 +1,19 @@
+{
+  "name": "serverless-temporal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless": "^2.55.0",
+    "serverless-offline": "^8.0.0"
+  },
+  "dependencies": {
+    "@js-temporal/polyfill": "^0.2.0"
+  }
+}
